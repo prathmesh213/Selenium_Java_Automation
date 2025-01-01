@@ -21,6 +21,7 @@ I created this repo to:
 - **Highlighting proactive growth**: Demonstrating hands-on experience and a proactive approach to professional development, showcasing my readiness to contribute in automation testing roles.
 
 
+
 ## How to Use
 
 Clone the repository:
