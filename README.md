@@ -11,6 +11,8 @@ Welcome to my **Selenium Java Automation** repository! This project is a showcas
 | Test Execution & Reporting        | Methods to run and report automation tests. |
 | Automation of web applications |     Automates web application testing using Selenium WebDriver and Java to ensure functionality and efficiency across browsers. |                          |
 
+
+
 ## Why This Repository? 
 
 I created this repo to:
