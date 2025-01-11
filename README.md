@@ -6,10 +6,10 @@ Welcome to my **Selenium Java Automation** repository! This project is a showcas
 
 | **Topic**                         | **Description**                           |
 |------------------------------------|-------------------------------------------|
-| basic Selenium WebDriver scripts      | A collection of fundamental automation scripts using Selenium WebDriver, showcasing essential web testing techniques such as browser interactions, locating web elements, handling dynamic content, and basic test validations.   |
-|Java programming concepts applied to automation              | Examples showing how core Java concepts like object-oriented programming (OOP), exception handling, file handling, and multithreading can be applied to create clear and efficient automation scripts. |
+| Basic Selenium WebDriver scripts      | A collection of fundamental automation scripts using Selenium WebDriver, showcasing essential web testing techniques such as browser interactions, locating web elements, handling dynamic content, and basic test validations.   |
+| Java programming concepts applied to automation              | Examples showing how core Java concepts like object-oriented programming (OOP), exception handling, file handling, and multithreading can be applied to create clear and efficient automation scripts. |
 | Test Execution & Reporting        | Methods to run and report automation tests. |
-|  Automation of web applications |     Automates web application testing using Selenium WebDriver and Java to ensure functionality and efficiency across browsers. |                          |
+| Automation of web applications |     Automates web application testing using Selenium WebDriver and Java to ensure functionality and efficiency across browsers. |                          |
 
 ## Why This Repository? 
 
