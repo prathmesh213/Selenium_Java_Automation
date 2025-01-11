@@ -2,6 +2,7 @@
 
 Welcome to my **Selenium Java Automation** repository! This project is a showcase of my hands-on learning journey as I master Selenium WebDriver and Java for test automation. I continuously upload concepts, code snippets, and mini-projects here to demonstrate my skills and progress.
 
+
 ## What’s Inside
 
 | **Topic**                         | **Description**                           |
