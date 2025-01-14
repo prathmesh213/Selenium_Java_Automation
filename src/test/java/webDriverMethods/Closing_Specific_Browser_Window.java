@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package webDriverMethods;
 
 import java.time.Duration;
@@ -37,7 +36,7 @@ public class Closing_Specific_Browser_Window {
 	}
 
 }
-=======
+
 package webDriverMethods;
 
 import java.time.Duration;
@@ -76,4 +75,4 @@ public class Closing_Specific_Browser_Window {
 	}
 
 }
->>>>>>> 2cfb20eb9c9ce003eb31dfc934ea4b81e9ca04b8
+
