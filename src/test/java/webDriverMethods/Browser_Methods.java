@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package webDriverMethods;
 
 import org.openqa.selenium.By;
@@ -26,7 +26,7 @@ public class Browser_Methods {
 	}
 
 }
-=======
+
 package webDriverMethods;
 
 import org.openqa.selenium.By;
@@ -54,4 +54,4 @@ public class Browser_Methods {
 	}
 
 }
->>>>>>> 2cfb20eb9c9ce003eb31dfc934ea4b81e9ca04b8
+
