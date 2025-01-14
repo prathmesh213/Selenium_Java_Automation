@@ -4,3 +4,4 @@ target/*
 .gitignore.swp
 .project
 
+/target/

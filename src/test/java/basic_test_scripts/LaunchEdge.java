@@ -1,4 +1,4 @@
-package BySdetQA;
+package basic_test_scripts;
 
 
 //import org.openqa.selenium.WebDriver;

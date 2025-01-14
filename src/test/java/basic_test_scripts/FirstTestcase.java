@@ -1,4 +1,4 @@
-package BySdetQA;
+package basic_test_scripts;
 
 /*
 TestCase

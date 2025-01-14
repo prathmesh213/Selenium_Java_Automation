@@ -1,4 +1,4 @@
-package Locaters;
+package Locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -49,7 +49,7 @@ public class xpath {
 		
 		
 		
-		driver.quit();
+	   driver.quit();
 	}
 
 }
