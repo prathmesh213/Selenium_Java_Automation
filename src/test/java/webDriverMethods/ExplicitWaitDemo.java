@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package webDriverMethods;
 
 import java.time.Duration;
@@ -6,7 +5,8 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -39,7 +39,7 @@ public class ExplicitWaitDemo {
 	}
 
 }
-=======
+
 package webDriverMethods;
 
 import java.time.Duration;
@@ -47,7 +47,8 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -80,4 +81,4 @@ public class ExplicitWaitDemo {
 	}
 
 }
->>>>>>> 2cfb20eb9c9ce003eb31dfc934ea4b81e9ca04b8
+
