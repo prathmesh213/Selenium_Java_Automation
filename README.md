@@ -14,7 +14,6 @@ Welcome to my **Selenium Java Automation** repository! This project is a showcas
 
 
 
-
 ## Why This Repository? 
 
 I created this repo to:
